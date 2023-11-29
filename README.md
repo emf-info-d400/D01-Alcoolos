@@ -12,4 +12,3 @@ Lisez `avec attention` et faites les points suivants avec précision et dans cet
 
 ## RESTITUTION :
 1. Rendre ce devoir normalement par `push` GitHub
-2. Mettez le code de vos 2 classes Java en couleur dans un document Word que vous rendrez comme devoir sur Teams.
